@@ -1,0 +1,17 @@
+<>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+h1{
+ color:red;
+ font-family:Arial;
+ font-style:italic;
+ font-size: 25px
+}
+li{
+ color:green;
+}
+</>
