@@ -1,4 +1,4 @@
 document.getElementById("app").innerHTML=new Date().toDateString()
 var myitem=document.createElement("li")
-myitem.textcontent="xyz"
+myitem.textContent="hello"
 getElementById("items").getChildren().append(myitem);
